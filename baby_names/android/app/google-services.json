@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "453299437019",
+    "firebase_url": "https://game-rank-15cb6.firebaseio.com",
+    "project_id": "game-rank-15cb6",
+    "storage_bucket": "game-rank-15cb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453299437019:android:23d2217ce44ea01e",
+        "android_client_info": {
+          "package_name": "br.com.mobile10.babynames.babynames"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453299437019-7gskb5j93jdvf426islkcqh1q810pa1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn1eV6Dqc96v1pYCd0AY3_4simZkrQ2hs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453299437019:android:f42e4ac9d1aaa7a7",
+        "android_client_info": {
+          "package_name": "br.com.mobile10.gamerank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453299437019-s98us6o9hic582rb31tr32aornmh1rp2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.mobile10.gamerank",
+            "certificate_hash": "85b91d4a8377bc29a3918fdecfa6f07506b093ef"
+          }
+        },
+        {
+          "client_id": "453299437019-7gskb5j93jdvf426islkcqh1q810pa1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn1eV6Dqc96v1pYCd0AY3_4simZkrQ2hs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453299437019-7gskb5j93jdvf426islkcqh1q810pa1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453299437019:android:b5d75907de594a2d",
+        "android_client_info": {
+          "package_name": "com.google.firebase.codelab.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453299437019-3lutlm9fu3moh0tq1b19f1q34lkq393r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.codelab.friendlychat",
+            "certificate_hash": "e3107cfef9c512cc050e8da57b275693a78cac32"
+          }
+        },
+        {
+          "client_id": "453299437019-7gskb5j93jdvf426islkcqh1q810pa1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn1eV6Dqc96v1pYCd0AY3_4simZkrQ2hs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453299437019-7gskb5j93jdvf426islkcqh1q810pa1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
